@@ -2,10 +2,10 @@
 研究に関する記録を残す．
 
 ## Progress
-[進捗](https://github.com/KazushiKawamura/Laboratory/Home#Progress)
+[進捗](https://github.com/KazushiKawamura/Laboratory/wiki#Progress)
 
 ## References
-[参考](https://github.com/KazushiKawamura/Laboratory/Home#References)
+[参考](https://github.com/KazushiKawamura/Laboratory/wiki#References)
 
 ## Othres
-[その他](https://github.com/KazushiKawamura/Laboratory/Home#Others)
+[その他](https://github.com/KazushiKawamura/Laboratory/wiki#Others)
